@@ -1,0 +1,4 @@
+1|1984|George Orwell|1200|No
+4|The Alchemist|Franz|1200|Yes
+2|Plague|Albert Campus|700|Yes
+3|Memory Improvement|Unknown|100|Yes
